@@ -1,0 +1,5 @@
+model,accuracy,macro_f1,neg_f1,neu_f1,pos_f1
+Logistic Regression (TF-IDF),1.0,1.0,1.0,1.0,1.0
+Naive Bayes (BoW),1.0,1.0,1.0,1.0,1.0
+MLP Neural Net (TF-IDF),1.0,1.0,1.0,1.0,1.0
+LSTM (simulated),0.8351,0.8151,—,—,—

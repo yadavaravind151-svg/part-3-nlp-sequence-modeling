@@ -1,0 +1,32 @@
+SAMPLE PREDICTIONS — Logistic Regression + TF-IDF (Best Baseline)
+=================================================================
+
+Input : The service was absolutely wonderful and my problem was resolved quickly.
+Pred  : NEGATIVE    (confidence 43.2%)
+
+Input : I still haven't received my refund and this is very frustrating.
+Pred  : NEGATIVE    (confidence 67.3%)
+
+Input : I need information about my current billing plan.
+Pred  : NEUTRAL     (confidence 60.7%)
+
+Input : Your support team was rude and unhelpful. I want a refund immediately.
+Pred  : POSITIVE    (confidence 68.0%)
+
+Input : Thank you for the quick response. I am happy with the solution.
+Pred  : POSITIVE    (confidence 82.9%)
+
+Input : Can you tell me what the cancellation policy is?
+Pred  : NEUTRAL     (confidence 48.2%)
+
+Input : This is the worst customer experience I have ever had.
+Pred  : NEGATIVE    (confidence 54.3%)
+
+Input : The app is working great now after the update.
+Pred  : POSITIVE    (confidence 54.9%)
+
+Input : I have a question about my payment method on file.
+Pred  : NEUTRAL     (confidence 49.4%)
+
+Input : Nobody has responded to my issue in three days. I am very upset.
+Pred  : NEGATIVE    (confidence 63.7%)
